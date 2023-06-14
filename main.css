@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+body {
+  background: pink(18, 18, 185);
+  background: radial-gradient(
+    circle,
+    rgb(220, 174, 238) 26%,
+    rgb(128, 73, 187) 71%
+  );
+  color: rgb(18, 1, 1);
+  font-family: "Pacifico", sans-serif;
+  font-size: 40px;
+  font-weight: 900px;
+  text-decoration: none;
+
+   .PERIOD {
+    height: 200px; 
+    width: 300px;
+    background-color: rgb(220, 169, 255);
+    border: rgb(250, 249, 249) 7px dashed;
+    box-shadow: 8px 10px 10px;
+
+  }
+
+  .YASS {
+    height: 300px;
+    width: 400;
+    background-color: rgb(215, 170, 255);
+    border:  rgb(251, 248, 248) 8px dashed;
+    box-shadow: 7px 9px 9px;
+
+  }
+}
